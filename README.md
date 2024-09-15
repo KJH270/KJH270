@@ -1,4 +1,4 @@
-## Hi there 👋
+## It's me 👋
 
 <!--
 **KJH270/KJH270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
